@@ -1,0 +1,246 @@
+{
+  "basics": {
+    "name": "Anirudh Sharma",
+    "title": "Project Manager",
+    "summary": "Results-driven Project Manager with 5+ years of experience leading Generative AI, Automation, SaaS, and Cloud transformation projects across healthcare, aviation, and government sectors. Skilled in managing cross-functional teams of up to 18, achieving a 95% on-time delivery rate. Expertise includes Agile methodologies, Scrum, and Earned Value Management (EVM), boosting delivery velocity by 25% and reducing operational effort by 60%. Proven track record in stakeholder engagement, risk mitigation, and deploying innovative AI solutions, such as multi-million dollar revenue forecasting systems. Dedicated to leveraging data-driven decision-making to optimize project outcomes and drive business value.",
+    "location": "Hyderabad, INDIA",
+    "email": "anirudhsharma363@gmail.com",
+    "phone": "+91-9032922580",
+    "experience": "6 Years 0 Month",
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/anirudh-sharma-b56a9a194"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Methodologies & Frameworks",
+      "items": ["PMP", "Scrum", "Project Planning", "Risk Mitigation", "Project Management", "Stakeholder Management", "Cross-functional Team Leadership", "Earned Value Management (EVM)", "Agile", "Agile Methodology", "Data-Driven Decision Making", "Software Development Life Cycle (SDLC)"]
+    },
+    {
+      "category": "Tools & Technologies",
+      "items": ["Chatgpt", "Canva", "Whimsical", "Claude Code", "Figma", "Prompt Engineering", "GIT", "Jira / Confluence"]
+    }
+  ],
+  "certifications": [
+    "Talking to AI: Prompt Engineering for Project Managers",
+    "Practical Application of Generative AI for Project Managers",
+    "Microsoft: Project management Fundamentals"
+  ],
+  "experience": [
+    {
+      "company": "Acuvate Software",
+      "role": "Project Manager",
+      "dates": "Nov 2023 - Present",
+      "location": "",
+      "bullets": [
+        "Directed the delivery of AI, automation, and cloud transformation programs for US government agencies and healthcare enterprises, aligning projects with strategic business objectives.",
+        "Delivered 6+ enterprise AI and automation projects with budgets exceeding $1M+, achieving a 95% on-time delivery rate through effective Agile governance.",
+        "Managed cross-functional teams of 12–15 members, including engineers, AI specialists, and designers, boosting sprint velocity by 25% and enhancing release predictability.",
+        "Implemented Earned Value Management (EVM) metrics to monitor project health, maintaining Schedule Performance Index (SPI) > 1.05 and Cost Performance Index (CPI) > 1.1.",
+        "Reduced delivery variance by 18% using predictive forecasting techniques (EAC & VAC) to enhance project predictability.",
+        "Initiated Agile transformation initiatives, coaching teams to improve Scrum adoption and increase overall delivery efficiency by 20%.",
+        "Oversaw the complete Software Development Life Cycle (SDLC), including scope definition, backlog prioritization, sprint planning, release management, and production rollout.",
+        "Served as the primary executive interface for client stakeholders, ensuring technology solutions met strategic business needs.",
+        "Proactively identified delivery risks, implementing mitigation strategies to prevent potential schedule overruns of up to 30%."
+      ]
+    },
+    {
+      "company": "Prakya INC",
+      "role": "Product Manager",
+      "dates": "Nov 2022 - Nov 2023",
+      "location": "",
+      "bullets": [
+        "Owned product strategy and delivery for enterprise digital platforms, overseeing cross-functional product development teams to ensure alignment and efficiency.",
+        "Managed end-to-end product delivery for Prakya 360, enhancing customer workflow automation and achieving a 40% reduction in manual operational efforts.",
+        "Successfully launched the Good Green Marketplace by coordinating efforts of engineering, design, and marketing teams, delivering the platform two months ahead of schedule.",
+        "Established a data-driven approach to backlog prioritization, resulting in a 30% improvement in product release efficiency.",
+        "Facilitated stakeholder workshops to convert business requirements into clear user stories and acceptance criteria, reducing requirement ambiguity and rework by 20%.",
+        "Enhanced cross-team collaboration and conflict resolution to maintain consistent sprint delivery commitments."
+      ]
+    },
+    {
+      "company": "MIRAKI TECHNOLOGIES",
+      "role": "Project Manager",
+      "dates": "Jun 2021 - Oct 2022",
+      "location": "",
+      "bullets": [
+        "Managed Agile delivery for e-commerce and enterprise SaaS applications, while working as Product Owner for internal solutions.",
+        "Drove Agile ceremonies, including Sprint Planning, Backlog Grooming, Daily Stand-ups, Sprint Reviews, and Retrospectives, ensuring cohesive team dynamics and effective project execution.",
+        "Delivered the internal product Fabpik, enhancing digital commerce operations and driving scalable product growth.",
+        "Translated complex business requirements into clear, actionable technical user stories, resulting in a 25% reduction in development rework.",
+        "Coordinated with engineering and QA teams to uphold high release quality, achieving an 18% decrease in defect leakage."
+      ]
+    },
+    {
+      "company": "BYJUS",
+      "role": "Business Development Associate",
+      "dates": "Jun 2020 - Jun 2021",
+      "location": "",
+      "bullets": [
+        "Attained high sales with a average DRPS of ₹50,000.",
+        "Consistently surpassed revenue targets, significantly contributing to regional revenue growth initiatives.",
+        "Mentored and trained new associates on best practices in customer engagement and sales strategies.",
+        "Built strong relationships with clients, enhancing customer satisfaction and driving repeat business."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "CARA – Clinical Assistant",
+      "stack": ["Generative AI", "Microsoft Speech-to-text", "Azure OpenAI", ".NET"],
+      "dates": "439 Days",
+      "bullets": [
+        "Orchestrated an Agile team to develop CARA, a Generative AI clinical documentation assistant for Hanger Clinic, enhancing clinician-patient interactions.",
+        "Integrated Microsoft's Speech-to-text to convert conversations into structured SOAP medical notes, streamlining workflow for healthcare providers.",
+        "Utilized Microsoft Azure OpenAI and .NET to design a platform that analyzes historical encounters and extracts prosthetic measurement data efficiently.",
+        "Accomplished a 50% reduction in clinician documentation effort, significantly decreasing the volume of manual paperwork required.",
+        "Increased clinical documentation speed by 40%, enabling healthcare professionals to allocate more time for patient care.",
+        "Automated the capture of prosthetic measurements, reducing manual form-filling errors by 35%, enhancing accuracy in patient records.",
+        "Accelerated patient record processing, leading to improved data accessibility and informed clinical decision-making."
+      ],
+      "links": []
+    },
+    {
+      "title": "Revenue Forecasting",
+      "stack": ["Machine Learning", "Power BI", "Python"],
+      "dates": "243 Days",
+      "bullets": [
+        "Led Agile delivery of a machine learning revenue forecasting system for Hanger Clinic, enhancing predictive capabilities.",
+        "A solution capable of predicting revenue from WIP and Non-WIP orders utilizing historical financial data patterns.",
+        "Clocked approximately 95% accuracy in revenue predictions, supporting reliable financial planning and resource allocation.",
+        "Empowered leadership teams with data-driven budgeting decisions through advanced predictive analytics.",
+        "Lowered manual financial forecasting efforts by 60%, streamlining the financial planning process.",
+        "Deployed interactive Power BI dashboards, significantly improving financial visibility across departments.",
+        "Utilized Python and machine learning methodologies to enhance system performance and efficiency."
+      ],
+      "links": []
+    },
+    {
+      "title": "Spirit Copilot Agent",
+      "stack": ["AI", "Chatbot"],
+      "dates": "243 Days",
+      "bullets": [
+        "Spearheaded the delivery of an AI-powered Copilot chatbot for Spirit Airlines, significantly enhancing customer interaction for flight bookings.",
+        "Executed intelligent algorithms to assist users in discovering optimal flight routes and identifying cheaper fares.",
+        "Contributed to a 20-25% increase in potential booking conversion rates through targeted flight recommendations.",
+        "Decreased dependency on customer support by 30%, enhancing operational efficiency with systematized responses to booking inquiries.",
+        "Improved digital self-service capabilities, greatly enhancing the overall customer booking experience and engagement."
+      ],
+      "links": []
+    },
+    {
+      "title": "NYCDEP – IDR Asbestos Inspection Management Platform",
+      "stack": ["Microsoft Power Apps", "Power Platform"],
+      "dates": "243 Days",
+      "bullets": [
+        "\"NYCDEP – IDR Asbestos Inspection Management Platform\" was developed for the New York City Department of Environmental Protection.",
+        "Utilized Microsoft Power Apps and Power Platform to create a robust digital solution for Inspector Daily Reports (IDR) focused on asbestos monitoring.",
+        "Digitized inspection workflows, achieving a significant reduction in manual paperwork by 70%, thereby enhancing operational efficiency.",
+        "Improved accuracy of inspection reporting and ensured compliance with stringent NYC asbestos regulations.",
+        "Streamlined the inspection report processing time, resulting in a 50% decrease in turnaround.",
+        "Facilitated centralized monitoring of inspection activities and approvals, enhancing oversight and accountability."
+      ],
+      "links": []
+    },
+    {
+      "title": "CII IGBC – Green Building Certification Platform",
+      "stack": ["PHP Laravel", "AngularJS"],
+      "dates": "243 Days",
+      "bullets": [
+        "A digital certification platform made for the Confederation of Indian Industry (CII) aimed at streamlining the green building certification lifecycle for the Indian Green Building Council (IGBC)",
+        "Utilized PHP Laravel and AngularJS technologies to automate processes previously reliant on manual emails and documentation",
+        "Improved operational efficiency of the certification process by 60%, significantly improving overall workflow",
+        "Eliminated manual payment tracking, paperwork, and email workflows, leading to smoother operations",
+        "Achieved a 40% reduction in certification processing time, facilitating quicker approvals",
+        "Increased transparency and scalability of the certification process, supporting sustainable building initiatives in India"
+      ],
+      "links": []
+    },
+    {
+      "title": "Positive Homeopathy – Electronic Health Record (EHR) Platform",
+      "stack": ["EHR"],
+      "dates": "273 Days",
+      "bullets": [
+        "Upgraded the Positive Homeopathy Electronic Health Record (EHR) Platform to streamline clinic management and enhance patient management workflows.",
+        "Computerized key processes including appointments, prescriptions, medical records, and billing, significantly improving operational efficiency.",
+        "Realised a 55% reduction in administrative workload for clinic staff, allowing for a more focused approach to patient care.",
+        "Optimized doctor productivity by 30% by providing instant access to patient records and improving workflow efficiency.",
+        "Digitized historical patient data, facilitating quicker clinical decision-making and enhancing patient care outcomes.",
+        "Streamlined appointment scheduling and payment processing, optimizing the overall patient experience and clinic operations."
+      ],
+      "links": []
+    },
+    {
+      "title": "National Health Mission – Child Health Monitoring Mobile Application",
+      "stack": ["React Native", "PHP"],
+      "dates": "212 Days",
+      "bullets": [
+        "Developed a mobile healthcare application for the Daman and Diu Government to enhance child health monitoring.",
+        "Utilized React Native and PHP to create a user-friendly interface for doctors and Anganwadi workers.",
+        "Enabled real-time tracking of children's health conditions across multiple regions, facilitating timely interventions.",
+        "Improved early identification of health risks and nutritional deficiencies among children.",
+        "Eliminated manual data recording by 50%, significantly increasing efficiency for healthcare workers.",
+        "Boosted coordination between healthcare professionals, leading to more proactive healthcare decisions."
+      ],
+      "links": []
+    },
+    {
+      "title": "CII Solar Rooftop – Green Solar Certification SaaS Platform",
+      "stack": ["SaaS"],
+      "dates": "304 Days",
+      "bullets": [
+        "\"CII Solar Rooftop – Green Solar Certification SaaS Platform\" was built for the Confederation of Indian Industry (CII) to automate the certification process for solar rooftop manufacturers.",
+        "Made a 60% reduction in manual certification paperwork, streamlining operations and enhancing productivity.",
+        "Amplified certification processing efficiency by 50%, significantly accelerating the overall certification cycle time for manufacturers.",
+        "Facilitated scalable certification management across multiple companies, promoting the adoption of green energy solutions."
+      ],
+      "links": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech/B.E. - Bachelor of Technology / Engineering | Electronics and Telecommunication Engineering",
+      "school": "J.B. Institute of Engineering & Technology, Hyderabad",
+      "dates": "2020",
+      "grade": "7.1/10"
+    }
+  ],
+  "achievements": [
+    {
+      "metric": "95%",
+      "context": "On-time delivery rate for 6+ enterprise AI and automation projects with budgets exceeding $1M+."
+    },
+    {
+      "metric": "60%",
+      "context": "Reduction in operational effort and manual financial forecasting efforts."
+    },
+    {
+      "metric": "50%",
+      "context": "Reduction in clinician documentation effort and inspection report processing time."
+    },
+    {
+      "metric": "40%",
+      "context": "Reduction in manual operational efforts for Prakya 360 and certification processing time."
+    },
+    {
+      "metric": "30%",
+      "context": "Improvement in product release efficiency and optimization of doctor productivity."
+    },
+    {
+      "metric": "25%",
+      "context": "Boost in sprint velocity and reduction in development rework."
+    },
+    {
+      "metric": "20%",
+      "context": "Increase in overall delivery efficiency and potential booking conversion rates."
+    },
+    {
+      "metric": "18%",
+      "context": "Reduction in delivery variance and decrease in defect leakage."
+    }
+  ],
+  "extra": []
+}
